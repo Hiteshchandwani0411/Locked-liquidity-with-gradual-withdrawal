@@ -76,3 +76,6 @@ Uses Aptos standard coin module for secure token handling.
 
 Conclusion
 The Locked Liquidity Smart Contract offers a secure, transparent, and controlled liquidity management solution, perfect for DeFi projects and long-term financial commitments. With future enhancements, it can become a key building block for vesting schedules, staking platforms, and liquidity management systems in the Aptos ecosystem.
+
+![image](https://github.com/user-attachments/assets/e084f860-2e37-4054-9752-01aa6c68eff2)
+
